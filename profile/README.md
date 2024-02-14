@@ -2,4 +2,4 @@
 
 We specialize in content-management systems, knowledge-management solutions and individually-programmed web applications.
 
-[www.cosmocode.de](https://www.cosmocode.de)
+Learn more at [www.cosmocode.de](https://www.cosmocode.de)

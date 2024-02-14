@@ -1,0 +1,33 @@
+name: ✨ Feature Request
+description: Submit a feature request
+labels: [ enhancement ]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        💼 [CosmoCode](https://www.cosmocode.de) is a software company in Berlin providing services for wiki,
+        app and web development. We're happy to release some of our work as Open Source, but please be aware
+        that we are not able to provide free support.
+
+
+        🛑 Most of our project development is highly driven by our customers' needs. As such the implementation
+        of community submitted feature requests is rare.
+
+
+        🤝 If you require certain features or functionality, you can always hire us.
+        Feel free to contact us at info@cosmocode.de for a custom offer.
+
+
+        ---
+  - type: textarea
+    attributes:
+      label: Feature Description
+      description: >-
+        Please describe the feature you are requesting below. Basically tell us
+
+          * What you are trying to achieve
+          * What you think a good way to implement it would be like
+          * Why you think this feature would be useful to you and a broader audience
+    validations:
+      required: true
+

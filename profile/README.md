@@ -1,4 +1,4 @@
-# We have been building first-class Internet applications for more than 20 years.
+# We build first-class Internet applications
 
 We specialize in content-management systems, knowledge-management solutions and individually-programmed web applications.
 

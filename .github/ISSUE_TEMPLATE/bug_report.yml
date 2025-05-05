@@ -5,24 +5,24 @@ body:
   - type: markdown
     attributes:
       value: >
-        **Important: Please Read Before Submitting**
+        ### Important: Please Read Before Submitting
         
         💼 [CosmoCode](https://www.cosmocode.de) is a software company in Berlin providing professional services for wiki,
         app and web development. While we're proud to share our work as Open Source, we have limited resources for community support.
         
-        ### What to expect:
+        #### What to expect:
         
           * ⏱️ **Non-paying users:** Bug reports are reviewed on a best-effort basis with no guaranteed timeline
           * 🔄 **Business partners:** Prioritized bug handling and guaranteed responses
         
-        ### Need faster resolution?
+        #### Need faster resolution?
         
         We offer several options for prioritized support:
         
           * 🤝 **Custom development:** Contact us at info@cosmocode.de for tailored solutions and bug fixing
           * ⚛️ **DokuWiki users:** Join our [DokuWiki Business Plugin Partner Program](https://www.cosmocode.de/en/services/wiki/dokuwiki-partnership/) for guaranteed and quick feedback
         
-        By submitting this bug report, you acknowledge that without a business relationship, we cannot guarantee when or if this issue will be addressed.
+        *By submitting this bug report, you acknowledge that without a business relationship, we cannot guarantee when or if this issue will be addressed.*
 
         ---
   - type: textarea

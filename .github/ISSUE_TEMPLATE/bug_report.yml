@@ -24,6 +24,7 @@ body:
         
         *By submitting this bug report, you acknowledge that without a business relationship, we cannot guarantee when or if this issue will be addressed.*
 
+
         ---
   - type: textarea
     attributes:
